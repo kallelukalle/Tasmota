@@ -41,7 +41,7 @@
  * - After initial load any change here only take effect if CFG_HOLDER is changed too
 \*********************************************************************************************/
 
-#define USE_PING
+#define USE_PING 
 
 // -- Master parameter control --------------------
 #define CFG_HOLDER             4617              // [Reset 1] Change this value (max 32000) to load SECTION1 configuration parameters to flash
